@@ -1,0 +1,15 @@
+{
+    "name":"Jokes",
+    "description":"get a new joke everyday",
+    "version":"1.0.0",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"hehe.png"
+    },
+    "icons":{
+        "16":"hehe.png",
+        "32":"hehe.png",
+        "48":"hehe.png"
+    }
+}
